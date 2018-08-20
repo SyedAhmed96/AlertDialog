@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlertDialog</string>
+
+    <string name="alerttitle">Alert Title</string>
+    <string name="ok">Okay</string>
+    <string name="message">MESSAGE</string>
+
+</resources>
